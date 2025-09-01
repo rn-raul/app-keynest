@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "KeyNest",
+    "slug": "KeyNest",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.raulbraga.KeyNest",
+    },
+    "extra": {
+      "eas": {
+        "projectId": "69ee5dc4-2719-4d5b-bc99-b8de2a477640"
+      }
+    }
+  }
+}
