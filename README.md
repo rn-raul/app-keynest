@@ -1,11 +1,11 @@
 # KeyNest
 
 <p align="center">
-  <img src="./src/screenshots/termo.jpeg" alt="Tela 1" width="170"/>
-  <img src="./src/screenshots/home_clear.jpeg" alt="Tela 2" width="170"/>
-  <img src="./src/screenshots/inserir.jpeg" alt="Tela 2" width="170"/>
-  <img src="./src/screenshots/home_pos_add.jpeg" alt="Tela 2" width="170"/>
-  <img src="./src/screenshots/details_password.jpeg" alt="Tela 2" width="170"/>
+  <img src="./src/screenshots/termo.jpeg" alt="Tela 1" width="160"/>
+  <img src="./src/screenshots/home_clear.jpeg" alt="Tela 2" width="160"/>
+  <img src="./src/screenshots/inserir.jpeg" alt="Tela 2" width="160"/>
+  <img src="./src/screenshots/home_pos_add.jpeg" alt="Tela 2" width="160"/>
+  <img src="./src/screenshots/details_password.jpeg" alt="Tela 2" width="160"/>
 </p>
 KeyNest é um aplicativo de gerenciamento de senhas que armazena seus dados de forma segura e exclusivamente no seu dispositivo. Não há sincronização ou envio para servidores externos, garantindo privacidade total.
 
